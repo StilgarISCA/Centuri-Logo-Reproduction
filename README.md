@@ -2,6 +2,8 @@
 
 A [Fusion360](https://www.autodesk.com/products/fusion-360/overview) CAD drawing of a Centuri logo.
 
+[Instructions on how to import the file into Fusion360](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-import-or-open-a-file-in-Autodesk-Fusion-360.html)
+
 -----
 
 Centuri was a video arcade game manufacturer which produced and licensed arcade machines in the 1980's. The company eventually became insolvant and closed it's doors. It is not clear who owns the rights to the Centuri trademarks to this day.
