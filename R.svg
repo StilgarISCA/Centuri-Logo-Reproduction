@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 20 21">
+  <g fill="none" stroke="#000">
+    <path d="M3 19.94l-2.5.01L.53.53 14.33.5h1.7c1.04 0 3.1 2.7 3.16 5.42.08 3.55-2.12 6.08-3.21 6.1l-1.7-.02 3.3 7.9h-2.52L11.83 12l-8.86-.02.03 7.96z" serif:id="R outline"/>
+    <path d="M3.01 2.85l10.61-.06h.5c.58.02 2.43.72 2.43 3.12 0 3.35-1.8 3.47-2.43 3.47h-.52L3.02 9.33V2.85z" serif:id="Inner hole"/>
+  </g>
+</svg>
